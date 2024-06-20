@@ -64,7 +64,7 @@ To use the BMI Calculator:
 
 ### BMI Categories
 
-- **Underweight**: BMI < 18.5
+- **Underweight**: BMI < 18.50
 - **Normal weight**: BMI 18.5–24.9
 - **Overweight**: BMI 25–29.9
 - **Obese**: BMI ≥ 30
