@@ -17,6 +17,8 @@ Welcome to the BMI Calculator! This project allows users to calculate their Body
 
 The Simple BMI Calculator is a web-based application designed to provide an easy way to determine BMI. BMI is a value derived from the mass (weight) and height of an individual and is commonly used to categorize individuals based on their body mass.
 
+## Website Link : [BMI - Calculator](https://r-bmicalculator.netlify.app/)
+
 ## Features
 
 - **BMI Calculation**: Calculate BMI using height in centimeters and weight in kilograms.
