@@ -1,0 +1,21 @@
+
+
+.bmiChartImage img{
+    width: 100%;
+    border-radius: 20px 20px 0px 0px;
+    /* margin-top: 10px; */
+}
+
+.para {
+    /* border: 2px solid black; */
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+.para > p {
+    padding: 5px 5px;
+    margin: 8px 1px;
+    border-radius: 10px;
+    border: 2px solid black;
+    word-spacing: -3px;
+}
