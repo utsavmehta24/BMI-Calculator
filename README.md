@@ -113,7 +113,7 @@ Please ensure your pull request adheres to the project's code of conduct and con
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
