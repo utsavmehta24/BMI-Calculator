@@ -130,5 +130,5 @@ This documentation provides a comprehensive guide to setting up, using, and cont
 ---
 # Note:
 
-#### Always consult with a healthcare provider for a more comprehensive health assessment.
+## Always consult with a healthcare provider for a more comprehensive health assessment.
 
